@@ -2,10 +2,6 @@
 
 # Network Test One: Uniform Load
 
-Some tests of Subsquid Network Phase Two testnet require that all workers regularly serve some queries. You can help the team create this type of uniform load by running this squid.
-
-Note: you'll need to have at least 10 tSQD to complete this quest. Obtain them by doing other quests first.
-
 ### I. Install dependencies: Node.js, Docker, Git.
 
 <details>
